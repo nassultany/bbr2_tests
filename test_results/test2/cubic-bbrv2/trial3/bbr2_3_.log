@@ -1,0 +1,19 @@
+Connecting to host 114.0.21.2, port 7891
+[  4] local 111.0.11.2 port 53604 connected to 114.0.21.2 port 7891
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  34.5 MBytes   289 Mbits/sec  602    584 KBytes       
+[  4]   1.00-2.00   sec  25.0 MBytes   210 Mbits/sec  148    506 KBytes       
+[  4]   2.00-3.00   sec  23.8 MBytes   199 Mbits/sec  118    424 KBytes       
+[  4]   3.00-4.00   sec  20.0 MBytes   168 Mbits/sec    0    424 KBytes       
+[  4]   4.00-5.00   sec  27.5 MBytes   231 Mbits/sec   58    624 KBytes       
+[  4]   5.00-6.00   sec  28.8 MBytes   241 Mbits/sec   67    571 KBytes       
+[  4]   6.00-7.00   sec  26.2 MBytes   220 Mbits/sec   33    520 KBytes       
+[  4]   7.00-8.00   sec  25.0 MBytes   210 Mbits/sec    0    520 KBytes       
+[  4]   8.00-9.00   sec  26.2 MBytes   220 Mbits/sec   26    515 KBytes       
+[  4]   9.00-10.00  sec  25.0 MBytes   210 Mbits/sec    9    786 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec   262 MBytes   220 Mbits/sec  1061             sender
+[  4]   0.00-10.00  sec   253 MBytes   213 Mbits/sec                  receiver
+
+iperf Done.

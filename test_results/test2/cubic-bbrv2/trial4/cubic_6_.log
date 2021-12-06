@@ -1,0 +1,19 @@
+Connecting to host 114.0.20.2, port 7890
+[  4] local 111.0.10.2 port 53332 connected to 114.0.20.2 port 7890
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  44.4 MBytes   372 Mbits/sec  2153    820 KBytes       
+[  4]   1.00-2.00   sec  37.5 MBytes   315 Mbits/sec   85    798 KBytes       
+[  4]   2.00-3.00   sec  38.8 MBytes   325 Mbits/sec   41    981 KBytes       
+[  4]   3.00-4.00   sec  40.0 MBytes   335 Mbits/sec   34    836 KBytes       
+[  4]   4.00-5.00   sec  42.5 MBytes   357 Mbits/sec  129    885 KBytes       
+[  4]   5.00-6.00   sec  42.5 MBytes   356 Mbits/sec  113    888 KBytes       
+[  4]   6.00-7.00   sec  37.5 MBytes   315 Mbits/sec  102    798 KBytes       
+[  4]   7.00-8.00   sec  30.0 MBytes   252 Mbits/sec  439    544 KBytes       
+[  4]   8.00-9.00   sec  23.8 MBytes   199 Mbits/sec  219    522 KBytes       
+[  4]   9.00-10.00  sec  25.0 MBytes   210 Mbits/sec   62    457 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec   362 MBytes   304 Mbits/sec  3377             sender
+[  4]   0.00-10.00  sec   350 MBytes   294 Mbits/sec                  receiver
+
+iperf Done.
