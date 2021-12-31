@@ -96,6 +96,7 @@ def run():
     h13_protocol = h12_protocol
 
     # SET TCP CONGESTION CONTROL ALGORITHM FOR SENDING HOSTS
+    info(net['h10'].cmd("sudo sysctl -w net.ipv4.tcp_congestion_control=" + h10_protocol))
     info(net['h11'].cmd("sudo sysctl -w net.ipv4.tcp_congestion_control=" + h11_protocol))
     info(net['h12'].cmd("sudo sysctl -w net.ipv4.tcp_congestion_control=" + h12_protocol))
     info(net['h13'].cmd("sudo sysctl -w net.ipv4.tcp_congestion_control=" + h13_protocol))
